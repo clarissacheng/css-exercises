@@ -1,1 +1,11 @@
 /* Add CSS Styling */
+
+.avatar.proportioned { /* chaining selectors */
+    width: 300px;
+    height: auto;
+}
+
+.avatar.distorted { /* chaining selectors */
+    width: 200px;
+    height: 400px;
+}
